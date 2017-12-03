@@ -19,4 +19,6 @@ Rails Concepts Series
 [x] Environment Variables
 [x] Ruby Version Managers
 [x] Rails Application Structure
+[x] The Param Hash
+[x] Sending Data Between Rails Controllers and Views
 ```
