@@ -13,12 +13,21 @@ Learn everything you need to about the subject of this `Tutorial` project.
 
 [Homepage](https://gorails.com)
 
-## Topics
-
-Episodes
-* [x] Environment Variables.
-* [x] Ruby Version Managers.
-* [x] Rails Application Structure.
-* [x] The Param Hash.
-* [x] Sending Data Between Rails Controllers and Views.
-* [ ] [#225 Stimulus: A modest Javascript framework](https://gorails.com/episodes/stimulus-js-framework-introduction?autoplay=1).
+[Rails Concepts Series]()
+* [x] [Environment Variables](https://gorails.com/episodes/environment-variables).
+* [ ] [Ruby Version Managers]().
+* [ ] [Rails Application Structure]().
+* [ ] [The Param Hash]().
+* [ ] [Sending Data Between Rails Controllers and Views]().
+* [ ] [Sending Data Between Controllers And Views]()
+* [ ] [Querying Named Scopes Across Models with ActiveRecord::Relation#merge]()
+* [ ] [Understanding Semantic Versioning]()
+* [ ] [A Look Into Routing]()
+* [ ] [Forms With Multiple Submit Buttons]()
+* [ ] Basic Authentication and RSS Feeds]()
+* [ ] Pair Programming on Rails Scopes]()
+* [ ] Rails 5's ActionCable and Websockets Introduction]()
+* [ ] Rails Counter Caches]()
+* [ ] Atomic Updates And Performance with ActiveRecord Transactions]()
+* [ ] Debugging: How to Interpret a Stacktrace]()
+* [ ] Rails Application Templates]()
