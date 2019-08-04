@@ -31,3 +31,4 @@ Learn everything you need to about the subject of this `Tutorial` project.
 * [ ] Atomic Updates And Performance with ActiveRecord Transactions]()
 * [ ] Debugging: How to Interpret a Stacktrace]()
 * [ ] Rails Application Templates]()
+* [x] Ruby's Array() and Array.wrap
